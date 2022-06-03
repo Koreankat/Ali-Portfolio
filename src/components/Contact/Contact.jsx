@@ -61,8 +61,8 @@ function Contact() {
             <input
               type='text'
               autoComplete='off'
-              id='name'
-              name='name'
+              id='user_name'
+              name='user_name'
               placeholder='Name'
               spellCheck='false'
               required
@@ -71,8 +71,8 @@ function Contact() {
             <input
               type='email'
               autoComplete='off'
-              id='email'
-              name='email'
+              id='user_email'
+              name='user_email'
               placeholder='Email'
               spellCheck='false'
               required
@@ -82,8 +82,8 @@ function Contact() {
           <input
             type='text'
             autoComplete='off'
-            id='subject'
-            name='subject'
+            id='from_name'
+            name='from_name'
             placeholder='Subject'
             spellCheck='false'
           ></input>
