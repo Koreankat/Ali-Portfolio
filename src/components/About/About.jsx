@@ -54,7 +54,7 @@ function About() {
         <div className='para'>
           <p>
             I am a self taught Front-end developer located in Morocco, i've
-            graduated from Hangzhou Dianzi University in compute science and
+            graduated from Hangzhou Dianzi University in computer science and
             engineering major,
           </p>
           <br></br>
