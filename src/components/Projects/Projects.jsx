@@ -41,12 +41,12 @@ function Projects() {
           color='#e4cb58'
         />
         <Work
-          heading={"SpaceX"}
-          para={"A website that shows spaceX evolution since day 1"}
-          language={"ReactJs"}
-          github_url={"https://github.com/Koreankat/spaceX"}
-          site_url={"space-x-blush.vercel.app"}
-          color='#58d8e4'
+          heading={"Tic Tac Toe game"}
+          para={"Intermediate Tic Tac Toe game challenge from FrontendMentor"}
+          language={"React.js"}
+          github_url={"https://github.com/Koreankat/Tic-Tac-Toe"}
+          site_url={"https://tic-tac-toe-seven-coral.vercel.app/"}
+          color='#e4cb58'
         />
       </div>
       <div
@@ -65,6 +65,14 @@ function Projects() {
           language={"HTML, Tailwindcss"}
           github_url={"https://github.com/Koreankat/static-chat-app"}
           site_url={"https://static-chat-app-mu.vercel.app/"}
+          color='#58d8e4'
+        />
+        <Work
+          heading={"SpaceX"}
+          para={"A website that shows spaceX evolution since day 1"}
+          language={"ReactJs"}
+          github_url={"https://github.com/Koreankat/spaceX"}
+          site_url={"space-x-blush.vercel.app"}
           color='#58d8e4'
         />
       </div>
