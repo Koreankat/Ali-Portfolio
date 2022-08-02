@@ -5,7 +5,7 @@ import AOS from "aos"
 import "aos/dist/aos.css"
 
 AOS.init()
-
+console.log(AOS.init())
 function About() {
   const Tags = [
     "Javascript",

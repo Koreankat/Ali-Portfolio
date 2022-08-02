@@ -60,6 +60,14 @@ function Projects() {
         data-aos-once='true'
       >
         <Work
+          heading={"Huddle Landing Page"}
+          para={"Huddle landing page with alternating feature blocks "}
+          language={"HTML, Tailwindcss"}
+          github_url={"https://github.com/Koreankat/huddle-landing-page-2"}
+          site_url={"https://static-chat-app-mu.vercel.app/"}
+          color='#58d8e4'
+        />
+        <Work
           heading={"Static chat app"}
           para={"This is a demo static 'live chat' "}
           language={"HTML, Tailwindcss"}
