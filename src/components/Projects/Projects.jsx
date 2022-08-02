@@ -64,7 +64,7 @@ function Projects() {
           para={"Huddle landing page with alternating feature blocks "}
           language={"HTML, Tailwindcss"}
           github_url={"https://github.com/Koreankat/huddle-landing-page-2"}
-          site_url={"https://static-chat-app-mu.vercel.app/"}
+          site_url={"https://huddle-landing-page-2-ecru.vercel.app/"}
           color='#58d8e4'
         />
         <Work
@@ -82,6 +82,26 @@ function Projects() {
           github_url={"https://github.com/Koreankat/spaceX"}
           site_url={"space-x-blush.vercel.app"}
           color='#58d8e4'
+        />
+      </div>
+      <div
+        className='row-2'
+        data-aos='fade-up'
+        data-aos-offset='200'
+        data-aos-delay='50'
+        data-aos-duration='1000'
+        data-aos-easing='ease'
+        data-aos-mirror='false'
+        data-aos-once='true'
+      >
+        {" "}
+        <Work
+          heading={"SpaceX"}
+          para={"A website that shows spaceX evolution since day 1"}
+          language={"Html, TailwindCss"}
+          github_url={"https://github.com/Koreankat/Clipboard-landing-page"}
+          site_url={"https://clipboard-landing-page-rouge.vercel.app/"}
+          color='#02f547'
         />
       </div>
     </div>
