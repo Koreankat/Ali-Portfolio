@@ -96,8 +96,10 @@ function Projects() {
       >
         {" "}
         <Work
-          heading={"SpaceX"}
-          para={"A website that shows spaceX evolution since day 1"}
+          heading={"Clipboard landing page"}
+          para={
+            "A clipboard that allows you to track and organize everything you copy"
+          }
           language={"Html, TailwindCss"}
           github_url={"https://github.com/Koreankat/Clipboard-landing-page"}
           site_url={"https://clipboard-landing-page-rouge.vercel.app/"}
