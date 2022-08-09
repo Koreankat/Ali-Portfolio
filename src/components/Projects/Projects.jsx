@@ -31,15 +31,16 @@ function Projects() {
           color='#e4cb58'
         />
         <Work
-          heading={"LOL champions"}
+          heading={"Space Travel"}
           para={
-            "This simple website is my first javascript project, it's a website that displays league of legends champion's informations"
+            "Beautifully designed space traveling website from FrontendMentor"
           }
-          language={"Vanilla JS"}
-          github_url={"https://github.com/Koreankat/lolchampions"}
-          site_url={"https://lolchampions.vercel.app/"}
+          language={"ReactJs"}
+          github_url={"https://github.com/Koreankat/Space-Tourism-React"}
+          site_url={"https://space-tourism-react-zeta.vercel.app/technology"}
           color='#e4cb58'
         />
+
         <Work
           heading={"Tic Tac Toe game"}
           para={"Intermediate Tic Tac Toe game challenge from FrontendMentor"}
@@ -103,6 +104,16 @@ function Projects() {
           language={"Html, TailwindCss"}
           github_url={"https://github.com/Koreankat/Clipboard-landing-page"}
           site_url={"https://clipboard-landing-page-rouge.vercel.app/"}
+          color='#02f547'
+        />
+        <Work
+          heading={"LOL champions"}
+          para={
+            "This simple website is my first javascript project, it's a website that displays league of legends champion's informations"
+          }
+          language={"Vanilla JS"}
+          github_url={"https://github.com/Koreankat/lolchampions"}
+          site_url={"https://lolchampions.vercel.app/"}
           color='#02f547'
         />
       </div>
