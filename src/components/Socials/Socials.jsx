@@ -16,7 +16,7 @@ function Socials() {
       </li>
       <li>
         <a
-          href='https://www.linkedin.com/in/ali-jaafari-580484233/'
+          href='https://www.linkedin.com/in/ali-jaafari-866926231/'
           target='__blank'
         >
           <i className='fa fa-linkedin'></i>
